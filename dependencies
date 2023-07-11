@@ -1,0 +1,1 @@
+dnf install ansible git python3-netaddr skopeo podman openshift-clients ipmitool python3-pyghmi python3-jmespath
